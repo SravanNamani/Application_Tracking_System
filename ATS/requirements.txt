@@ -1,0 +1,6 @@
+djangorestframework
+openpyxl
+pandas
+
+
+pip install djangorestframework openpyxl pandas
